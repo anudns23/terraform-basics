@@ -10,4 +10,4 @@ variable "subnet2_cidr" {}
 variable "subnet1_name" {}
 variable "subnet2_name" {}
 
-  
+
